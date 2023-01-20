@@ -5,4 +5,6 @@ Here you can find the modpacks and datapacks used in the last three seasons. The
 
 The mods are all Fabric. I seem to recall Season 2 was 1.18, and I know Season 4 was 1.19, so Season 3 was also likely 1.18.
 
+*Note: Season 2 only contains the custom datapack I wrote. The mods are fairly standard server optimization mods, in case you want to know.*
+
 Rest in peace, December. Long live the Igloo Empire.
